@@ -13,7 +13,6 @@
  E-mail: cltvv1@gmail.com
  
  
-####
-Репозиторий с серверной частью:
+#### Репозиторий с серверной частью:
 https://github.com/cltvv/Cutaway_backend
 

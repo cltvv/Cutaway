@@ -29,7 +29,7 @@ linter:
   # `// ignore_for_file: name_of_lint` syntax on the line or in the file
   # producing the lint.
   rules:
-    prefer_single_quotes: true
+    prefer_double_quotes: true
     avoid_relative_lib_imports: true
 # Additional information about this file can be found at
 # https://dart.dev/guides/language/analysis-options

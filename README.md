@@ -1,16 +1,18 @@
 # cutaway
 
-A new Flutter project.
+Приложение-конструктор визиток, которое позволять оптимально представить все свои контакты, резюме и др.
+Вместе с мобильным приложением идет веб-приложение, позволяющее просматривать чужие визитки, если само приложение не установлено устройстве.
 
-## Getting Started
+(Этот репозиторий используется для написания клиентской части приложения)
+## Участники команды
 
-This project is a starting point for a Flutter application.
+Марат Муратов, Яков Чешев, Вячеслав Кузьмин,  Данила Шестаков.
 
-A few resources to get you started if this is your first Flutter project:
+### Контакты для связи
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ E-mail: cltvv1@gmail.com
+ 
+ 
+#### Репозиторий с серверной частью:
+https://github.com/cltvv/Cutaway_backend
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
